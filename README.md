@@ -1,2 +1,3 @@
-# Verbal-to-Text Lie Detection Using LLM Architecture
- 
+
+
+Welcome to our repository for the "Verbal Lie Detection Using Large Language Models" project. This repository is structured into three main folders, each tailored to a specific aspect of our research. The Declarative_stylometric_analysis folder contains all necessary datasets and .ipynb files for conducting linguistic analysis. The Deception Detection folder, the core of our project, includes files that utilize the FLAN-T5 model in base, small, and large architectures, running analyses on individual and combined datasets to detect deception. Lastly, the Results and Visualization folder houses all our project outputs, including the datasets with predictions and visualizations generated from our analyses. This setup ensures a structured approach to exploring and understanding the capabilities of LLMs in lie detection.
