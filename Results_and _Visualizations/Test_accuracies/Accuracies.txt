@@ -1,9 +1,0 @@
-SmallTrail_accuracy: 0.41666666666
-SmallExp_accuracy: 0.64878048780
-BaseTrail_accuracy: 0.5833333333333334
-BaseExp_accuracy: 0.5804878048780487
-LargeTrail_accuracy: 0.54166666
-LargeExp_accuracy: 0.692682
-CombinedSmall_accuracy: 0.59825
-CombinedLarge_accuracy: 0.6986899563318777
-CombinedBase_accuracy: 0.6681222707423581
